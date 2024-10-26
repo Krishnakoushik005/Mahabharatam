@@ -1,0 +1,103 @@
+Mahabharata Characters
+│
+├── Pandavas
+│   ├── Yudhishthira
+│   │   ├── Weapons: Bow, spear
+│   │   ├── Shastras: Conventional weaponry
+│   │   └── Powers: Wisdom, embodiment of dharma
+│   │
+│   ├── Bhima
+│   │   ├── Weapons: Mace (Gada), sword
+│   │   ├── Shastras: Strength with conventional weapons, skilled in mace combat
+│   │   └── Powers: Incredible strength, son of Vayu
+│   │
+│   ├── Arjuna
+│   │   ├── Weapons: Bow (Gandiva)
+│   │   ├── Astras: Pashupatastra, Brahmastra, Varunastra, Agneyastra, many others
+│   │   └── Powers: Master archer, divine blessings
+│   │
+│   ├── Nakula
+│   │   ├── Weapons: Sword, dagger
+│   │   ├── Shastras: Skilled swordsman
+│   │   └── Powers: Horse riding, healing
+│   │
+│   └── Sahadeva
+│       ├── Weapons: Sword, shield
+│       ├── Shastras: Skilled swordsman
+│       └── Powers: Astrology, prophecy
+│
+├── Kauravas
+│   ├── Duryodhana
+│   │   ├── Weapons: Mace (Gada), sword
+│   │   ├── Shastras: Skilled in mace and sword
+│   │   └── Powers: Great warrior, skilled in battle
+│   │
+│   ├── Dushasana
+│   │   ├── Weapons: Sword, mace
+│   │   ├── Shastras: Skilled in combat
+│   │   └── Powers: Fierce fighter, actions against Draupadi
+│   │
+│   └── Vikarna
+│       ├── Weapons: Sword, bow
+│       ├── Shastras: Conventional weaponry
+│       └── Powers: Sense of justice
+│
+├── Bhishma
+│   ├── Weapons: Bow, spear
+│   ├── Astras: Pradyumna Astra, Parashurama’s training (various astras)
+│   └── Powers: Great warrior, invincible due to vows
+│
+├── Balarama
+│   ├── Weapons: Plough (Hala), mace
+│   ├── Shastras: Exceptional combat skills, strength, and martial prowess
+│   └── Powers: Great strength, teacher of Duryodhana
+│
+├── Krishna
+│   ├── Weapons: Sudarshana Chakra, bow (Sharanga)
+│   ├── Astras: Sudarshana Chakra (divine discus), Kaumodaki (mace)
+│   └── Powers: Avatar of Vishnu, master strategist
+│
+├── Dronacharya
+│   ├── Weapons: Bow, divine weapons
+│   ├── Astras: Brahmastra, Agneyastra, Narayanastra, many others
+│   └── Powers: Master archer, knowledge of warfare
+│
+├── Ashwatthama
+│   ├── Weapons: Bow
+│   ├── Astras: Brahmastra, Narayanastra (attempted), other powerful astras
+│   └── Powers: Invincible warrior, loyalty to Dronacharya
+│
+├── Ghatotkacha
+│   ├── Weapons: Mace, magical powers
+│   ├── Shastras: Magical abilities
+│   └── Powers: Size and shape transformation
+│
+├── Ekalavya
+│   ├── Weapons: Bow and arrows
+│   ├── Shastras: Unmatched skill in conventional archery
+│   └── Powers: Dedication to archery
+│
+├── Shakuni
+│   ├── Weapons: None notable
+│   ├── Shastras: Mastery of Pachisi (dice game)
+│   └── Powers: Cunning, intelligence
+│
+├── Karna
+│   ├── Weapons: Bow (Vijaya)
+│   ├── Astras: Brahmastra, Bhargavastra, Nagastra, Vasavi Shakti, many others
+│   └── Powers: Exceptional archer and warrior, son of Surya (Sun God)
+│
+├── Dhrishtadyumna
+│   ├── Weapons: Sword, bow
+│   ├── Shastras: Skilled warrior
+│   └── Powers: Destined to kill Dronacharya
+│
+├── Jarasandha
+│   ├── Weapons: Club
+│   ├── Shastras: Great warrior skills
+│   └── Powers: Immense strength, can fight multiple warriors simultaneously
+│
+└── Parashurama
+    ├── Weapons: Parashu (axe)
+    ├── Astras: Brahmastra, various divine weapons
+    └── Powers: Mastery of weaponry, avatar of Vishnu, destruction of kshatriyas
