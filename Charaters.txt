@@ -47,9 +47,9 @@ King Kuru
                └── Vidura (with a maidservant)
                        |
                        └── Vidura – Advisor to the Kuru Dynasty
-               
-         |
-         └── Karna (son of Kunti and Surya, raised by Adhiratha and Radha)
+Anga Kingdom
+    |
+    └── Karna (son of Kunti and Surya, raised by Adhiratha and Radha)
                        |
                        ├── Vrishasena (son of Karna and Vrushali)
                        ├── Sushena (son of Karna and Vrushali)
