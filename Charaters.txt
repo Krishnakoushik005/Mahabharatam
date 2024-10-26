@@ -1,0 +1,121 @@
+King Kuru
+    |
+    └── King Shantanu
+         |
+         ├── Bhishma (with Ganga)
+         |
+         └── Vichitravirya (with Satyavati)
+               |
+               ├── Dhritarashtra (with Ambika)
+               |       |
+               |       ├── Kauravas (100 sons including Duryodhana, Dushasana, Vikarna)
+               |       |
+               |       └── Duhshala (only daughter of Dhritarashtra and Gandhari)
+               |               |
+               |               └── Married to Jayadratha (King of Sindhu)
+               |
+               ├── Pandu (with Ambalika)
+               |       |
+               |       ├── Yudhishthira (with Kunti, fathered by Yama)
+               |       |       |
+               |       |       └── Prativindhya (son of Yudhishthira and Draupadi)
+               |       |
+               |       ├── Bhima (with Kunti, fathered by Vayu)
+               |       |       |
+               |       |       ├── Sutasoma (son of Bhima and Draupadi)
+               |       |       |
+               |       |       └── Ghatotkacha (son of Bhima and Hidimbi)
+               |       |               |
+               |       |               └── Barbarika (son of Ghatotkacha)
+               |       |
+               |       ├── Arjuna (with Kunti, fathered by Indra)
+               |       |       |
+               |       |       ├── Abhimanyu (son of Arjuna and Subhadra)
+               |       |       |       |
+               |       |       |       └── Parikshit (succeeds the Pandavas as king)
+               |       |       |
+               |       |       └── Iravan (son of Arjuna and Ulupi)
+               |       |
+               |       ├── Nakula (with Madri, fathered by Ashwini twin)
+               |       |       |
+               |       |       └── Shatanika (son of Nakula and Draupadi)
+               |       |
+               |       └── Sahadeva (with Madri, fathered by Ashwini twin)
+               |               |
+               |               └── Suhotra (son of Sahadeva and Draupadi)
+               |
+               └── Vidura (with a maidservant)
+                       |
+                       └── Vidura – Advisor to the Kuru Dynasty
+               
+         |
+         └── Karna (son of Kunti and Surya, raised by Adhiratha and Radha)
+                       |
+                       ├── Vrishasena (son of Karna and Vrushali)
+                       ├── Sushena (son of Karna and Vrushali)
+                       └── Vrushali (wife of Karna)
+                       
+Yadava Kingdom (Vrishni Clan, Mathura and Dwaraka)
+    |
+    └── Shurasena
+         |
+         └── Vasudeva
+               |
+               ├── Krishna (with Devaki, Avatar of Vishnu)
+               |       └── Married to Rukmini, Satyabhama, and others
+               |
+               ├── Balarama (with Rohini)
+               |
+               └── Subhadra (with Devaki, married to Arjuna)
+                     └── Abhimanyu (son, married to Uttara)
+                           └── Parikshit (successor to Pandavas)
+
+Gandhara Kingdom
+    |
+    └── King Subala
+         |
+         ├── Shakuni – Brother of Gandhari, uncle to Kauravas, key advisor to Duryodhana
+         |
+         └── Gandhari (married to Dhritarashtra)
+                       |
+                       └── Mother to the Kauravas (100 sons including Duryodhana, Dushasana, Vikarna) and Duhshala
+                       
+Panchala Kingdom
+    |
+    └── King Drupada
+          |
+          ├── Draupadi (married to the Pandavas)
+          |       |
+          |       ├── Prativindhya (son of Yudhishthira and Draupadi)
+          |       ├── Sutasoma (son of Bhima and Draupadi)
+          |       ├── Shrutakarma (son of Arjuna and Draupadi)
+          |       ├── Shatanika (son of Nakula and Draupadi)
+          |       └── Suhotra (son of Sahadeva and Draupadi)
+          |
+          └── Dhrishtadyumna (brother of Draupadi, born to kill Dronacharya)
+                       
+Kripa and his sister Kripi
+    |
+    ├── Kripa (Kripacharya) – Royal teacher and military instructor of the Kauravas and Pandavas
+    |
+    └── Kripi – Married to Dronacharya
+               |
+               └── Ashwatthama (son of Kripi and Dronacharya)
+
+Rakshasa Kingdom
+    |
+    └── Hidimba
+         |
+         └── Hidimbi (married to Bhima)
+               |
+               └── Ghatotkacha (warrior in the Kurukshetra War)
+                     |
+                     └── Barbarika (son, later known for prowess and devotion)
+
+Nishadha Kingdom
+    |
+    └── King Hiranyadhanus
+         |
+         └── Ekalavya
+              |
+              └── A master archer, originally trained in the principles of archery by observing Dronacharya
